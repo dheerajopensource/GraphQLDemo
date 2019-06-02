@@ -1,0 +1,17 @@
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.csprojAssemblyReference.cache
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.csproj.CoreCompileInputs.cache
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.RazorAssemblyInfo.cache
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.RazorAssemblyInfo.cs
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.AssemblyInfoInputs.cache
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.AssemblyInfo.cs
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\GraphQLDemo.API.deps.json
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\GraphQLDemo.API.runtimeconfig.json
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\GraphQLDemo.API.runtimeconfig.dev.json
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\GraphQLDemo.API.dll
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\GraphQLDemo.API.pdb
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\NonDBStore.dll
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\bin\Debug\netcoreapp2.2\NonDBStore.pdb
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.RazorTargetAssemblyInfo.cache
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.csproj.CopyComplete
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.dll
+F:\sources\Demo\GraphQL\GraphQLDemo\GraphQLDemo.API\obj\Debug\netcoreapp2.2\GraphQLDemo.API.pdb
